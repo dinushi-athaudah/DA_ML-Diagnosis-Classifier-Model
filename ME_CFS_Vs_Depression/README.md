@@ -53,3 +53,10 @@ Decision Tree, Random Forest, & SVM: Achieved a remarkable 99.03% Accuracy and 9
 Naive Bayes: Achieved 90.34% Accuracy. 
 
 K-Nearest Neighbors (KNN): Achieved 85.51% Accuracy.
+
+## Contributors
+This project was developed as a group assignment for the **DSA 504 2.0 - Machine Learning I** module at the **University of Sri Jayewardenepura**.
+
+* **A.H.G.D.N Athaudahetti**
+* **D.A.D.N. Danthapuraarachchi**
+* **W.B.A.N. Bandara**
