@@ -1,0 +1,14 @@
+# Data handling
+pandas
+
+# Visualizations
+matplotlib
+seaborn
+ipython
+
+# Machine learning
+scikit-learn
+imbalanced-learn
+
+# Statistics
+scipy
